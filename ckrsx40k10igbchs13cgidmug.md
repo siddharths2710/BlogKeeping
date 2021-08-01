@@ -23,7 +23,7 @@ Regardless of the endless possibilities(as mentioned above), my major requiremen
 
 # Background
 
-The most straightforward solution at hand is to simply expose the service to the public through standard  [port forwarding](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide/), and preferably mapping your public-facing IPv4 address to a more readable URL using [DNS Services](https://freedns.afraid.org/) (Modern home routers also support [Dynamic DNS](https://www.tp-link.com/us/support/faq/1367/) as well, removing the hassle of frequently updating the DNS record to the current dynamic IP).
+The most straightforward solution at hand is to simply expose the service to the public through standard  [port forwarding](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide/), and preferably mapping your public-facing IPv4 address to a more readable URL using [DNS Services](https://freedns.afraid.org/) (Modern home routers also support [Dynamic DNS](https://www.tp-link.com/us/support/faq/1367/) as well, removing the hassle of frequently updating the DNS record to the current DHCP assigned IPv4 address.
 
 While following the above approach, I have encountered the unintended consequence of the  [Double NAT](https://helpdeskgeek.com/networking/what-is-double-nat-and-how-to-fix-it-on-a-network/) problem:
 
