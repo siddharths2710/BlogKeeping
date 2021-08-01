@@ -14,7 +14,7 @@ I've been exploring tons of ways to reuse my old personal laptop, and from a dev
 - Static file and webpage hosting ( a Pythonian can simply issue a `python3 -m http.server` )
 - Publicly exposed FTP/NAS server to facilitate dedicated file transfers
 - Personal VPN, setup preferably as an [IPSec/OpenVPN/Wireguard](https://www.ivpn.net/pptp-vs-ipsec-ikev2-vs-openvpn-vs-wireguard/) responder, and exposing the dev endpoint publicly using [Dynamic DNS](https://www.noip.com/) solutions.
-- My most favorite use-case, being the ability to remotely program on this dev machine, by setting up an open-source  [bowser-frontend for VSCode](https://github.com/cdr/code-server) (We could possibly be programming on the cloud in the near future, provided  [GitHub Codespaces](https://github.com/features/codespaces) evolves )
+- My most favorite use-case, being the ability to remotely program on this dev machine, by setting up an open-source  [browser-frontend for VSCode](https://github.com/cdr/code-server) (We could possibly be programming on the cloud in the near future, provided  [GitHub Codespaces](https://github.com/features/codespaces) evolves )
 
 
 ![gh_codespaces.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1627802574584/_iCxiG1yS.png)
