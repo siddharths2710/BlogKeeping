@@ -10,7 +10,7 @@ I've been exploring tons of ways to reuse my old personal laptop, and from a dev
 ![kodi.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1627802425563/LMY5rITxu.jpeg)
 
 -  [Media Center](https://techhut.tv/turn-laptop-media-server-ubuntu-plex/), easy setup, minimal fuss ( with the exclusion of   [Kodi](https://www.makeuseof.com/tag/set-up-use-kodi-beginners/) ), and serves my collection remotely (using port forwarding/UPnP/NAT-PMP).
-- 24/7 Web Serving Hosting, with port forwarding and a  [free domain](https://www.freenom.com) setup
+- 24/7 Web Server Hosting, with port forwarding and a  [free domain](https://www.freenom.com) setup
 - Static file and webpage hosting ( a Pythonian can simply issue a `python3 -m http.server` )
 - Publicly exposed FTP/NAS server to facilitate dedicated file transfers
 - Personal VPN, setup preferably as an [IPSec/OpenVPN/Wireguard](https://www.ivpn.net/pptp-vs-ipsec-ikev2-vs-openvpn-vs-wireguard/) responder, and exposing the dev endpoint publicly using [Dynamic DNS](https://www.noip.com/) solutions.
